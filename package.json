@@ -1,0 +1,30 @@
+{
+  "name": "bonedisplay",
+  "version": "1.0.0",
+  "description": "BoneDisplay — An Audiovisual Scrollytelling & Digital Zine Engine for creatives, photographers, musicians, and designers.",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve -l 3000 .",
+    "start": "npx serve -l 3000 .",
+    "preview": "npx serve -l 3000 .",
+    "check-assets": "python scripts/check_assets.py"
+  },
+  "keywords": [
+    "scrollytelling",
+    "audiovisual",
+    "portfolio-engine",
+    "digital-zine",
+    "creative-coding",
+    "mobile-first",
+    "kinetic-slider",
+    "darkroom-aesthetic",
+    "vanilla-js"
+  ],
+  "author": "seldomappple",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seldomappple/bonedisplay.git"
+  }
+}
